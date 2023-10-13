@@ -6,3 +6,6 @@
 姓名：張耀明
 
 研究領域:機器人控制與硬體加速。
+
+
+LAB-fir: https://github.com/s095339/SOC_lab_fir
